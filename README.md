@@ -1,7 +1,7 @@
 # zombie-killer
 Aplication for me to learn bower e grunt :)
 
-Rodar os comandos:
+Run in command line:
 
 bower install
 
