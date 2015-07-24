@@ -1,0 +1,21 @@
+{
+  "name": "zombie-striker",
+  "version": "0.0.1",
+  "description": "app to learn bower",
+  "main": "assets/script/main.js",
+  "authors": [
+    "@rafaelguinho"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "bootstrap": "~3.3.5"
+  }
+}
